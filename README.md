@@ -1,1 +1,1 @@
-# odin-recipes
+# lesson project recipes
